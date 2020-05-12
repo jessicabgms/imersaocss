@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190617/ourmid/pngtree-simple-small-fresh-background-hd-pictures-image_126609.jpg);
+    background-size: auto 150vh;
+    font-family: Century Gothic;
+    height: 100vh;
+    
+  }
+  
+  .menu {
+    background-color: pink;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a { 
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+  }
+  
